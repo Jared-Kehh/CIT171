@@ -1,0 +1,41 @@
+[33mcommit e763b92c3edacbe3277b1da076c78bb4bbda2061[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Christian Viazzo <via17001@byui.edu>
+Date:   Thu Sep 22 13:07:28 2022 -0600
+
+    test comment
+
+[33mcommit 48ea101966e51d9480b34a93dc2963ece3aa07fb[m
+Author: scmurdock <scmurdock@gmail.com>
+Date:   Mon Mar 14 13:14:16 2022 -0600
+
+    Update style.css
+
+[33mcommit 5eef5f071e4882a7b5118572a1abbeeaf750bb76[m
+Author: scmurdock <scmurdock@gmail.com>
+Date:   Wed Oct 13 15:16:14 2021 -0600
+
+    Update README.md
+
+[33mcommit 83f1f5af9adfde01773ff3a717e01a5b4e43e63d[m
+Author: scmurdock <scmurdock@gmail.com>
+Date:   Wed Oct 13 15:15:52 2021 -0600
+
+    Create README.md
+
+[33mcommit 88ffe1bc62305e773b4b0ee39d4139befc9f5a8f[m
+Author: chvia223 <via17001@byui.edu>
+Date:   Tue Sep 21 17:28:56 2021 -0600
+
+    Updated from the main repository
+
+[33mcommit 62b3394335cf03a71e766917bde36d223c95e9d8[m
+Author: nancyigweee <igw18001@byui.edu>
+Date:   Thu Nov 12 00:12:15 2020 +0000
+
+    Files copied from stedi
+
+[33mcommit d9242d0f19e55fde6b81dd3678810425834a4118[m
+Author: nancyigweee <52689213+nancyigweee@users.noreply.github.com>
+Date:   Wed Nov 11 17:03:10 2020 -0700
+
+    Create Dockerfile
